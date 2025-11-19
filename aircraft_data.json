@@ -1,0 +1,802 @@
+[
+  {
+    "Manufacturer": "Boeing",
+    "Model": 720,
+    "Max Range (km)": 5200,
+    "Max Pax": 160,
+    "Cabin Width (m)": 3.55,
+    "Body Type": "Narrow",
+    "Engines": 4,
+    "Family": "Boeing 720"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "707-120",
+    "Max Range (km)": 5600,
+    "Max Pax": 174,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 4,
+    "Family": "Boeing 707"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "707-120B",
+    "Max Range (km)": 6700,
+    "Max Pax": 174,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 4,
+    "Family": "Boeing 707"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "707-320",
+    "Max Range (km)": 6940,
+    "Max Pax": 189,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 4,
+    "Family": "Boeing 707"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "707-320B",
+    "Max Range (km)": 9300,
+    "Max Pax": 189,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 4,
+    "Family": "Boeing 707"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "707-320C",
+    "Max Range (km)": 5400,
+    "Max Pax": 194,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 4,
+    "Family": "Boeing 707"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "707-420",
+    "Max Range (km)": 6940,
+    "Max Pax": 189,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 4,
+    "Family": "Boeing 707"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "717-200",
+    "Max Range (km)": 2645,
+    "Max Pax": 117,
+    "Cabin Width (m)": 3.1,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 717"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "727-100",
+    "Max Range (km)": 4170,
+    "Max Pax": 125,
+    "Cabin Width (m)": 3.5,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 727"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "727-200",
+    "Max Range (km)": 3500,
+    "Max Pax": 155,
+    "Cabin Width (m)": 3.5,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 727"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "727-200 Advanced",
+    "Max Range (km)": 4720,
+    "Max Pax": 155,
+    "Cabin Width (m)": 3.5,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 727"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "737 MAX 10",
+    "Max Range (km)": 5700,
+    "Max Pax": 230,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 737"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "737 MAX 7",
+    "Max Range (km)": 7000,
+    "Max Pax": 172,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 737"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "737 MAX 8",
+    "Max Range (km)": 6500,
+    "Max Pax": 210,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 737"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "737 MAX 9",
+    "Max Range (km)": 6100,
+    "Max Pax": 220,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 737"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "737-100",
+    "Max Range (km)": 2850,
+    "Max Pax": 118,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 737"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "737-200",
+    "Max Range (km)": 4800,
+    "Max Pax": 136,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 737"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "737-300",
+    "Max Range (km)": 4176,
+    "Max Pax": 149,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 737"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "737-400",
+    "Max Range (km)": 3820,
+    "Max Pax": 188,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 737"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "737-500",
+    "Max Range (km)": 4398,
+    "Max Pax": 132,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 737"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "737-600",
+    "Max Range (km)": 5991,
+    "Max Pax": 130,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 737"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "737-700",
+    "Max Range (km)": 5570,
+    "Max Pax": 149,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 737"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "737-800",
+    "Max Range (km)": 5436,
+    "Max Pax": 189,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 737"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "737-900",
+    "Max Range (km)": 5150,
+    "Max Pax": 189,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 737"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "737-900ER",
+    "Max Range (km)": 5460,
+    "Max Pax": 220,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 737"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "747-100",
+    "Max Range (km)": 8560,
+    "Max Pax": 550,
+    "Cabin Width (m)": 6.1,
+    "Body Type": "Wide",
+    "Engines": 4,
+    "Family": "Boeing 747"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "747-400D",
+    "Max Range (km)": 8560,
+    "Max Pax": 840,
+    "Cabin Width (m)": 6.1,
+    "Body Type": "Wide",
+    "Engines": 4,
+    "Family": "Boeing 747"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "747-400M",
+    "Max Range (km)": 10600,
+    "Max Pax": 524,
+    "Cabin Width (m)": 6.1,
+    "Body Type": "Wide",
+    "Engines": 4,
+    "Family": "Boeing 747"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "747SP",
+    "Max Range (km)": 10800,
+    "Max Pax": 400,
+    "Cabin Width (m)": 6.1,
+    "Body Type": "Wide",
+    "Engines": 4,
+    "Family": "Boeing 747"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "747-300",
+    "Max Range (km)": 11720,
+    "Max Pax": 660,
+    "Cabin Width (m)": 6.1,
+    "Body Type": "Wide",
+    "Engines": 4,
+    "Family": "Boeing 747"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "747-200B",
+    "Max Range (km)": 12150,
+    "Max Pax": 550,
+    "Cabin Width (m)": 6.1,
+    "Body Type": "Wide",
+    "Engines": 4,
+    "Family": "Boeing 747"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "747-400",
+    "Max Range (km)": 13490,
+    "Max Pax": 660,
+    "Cabin Width (m)": 6.1,
+    "Body Type": "Wide",
+    "Engines": 4,
+    "Family": "Boeing 747"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "747-400ER",
+    "Max Range (km)": 14045,
+    "Max Pax": 660,
+    "Cabin Width (m)": 6.1,
+    "Body Type": "Wide",
+    "Engines": 4,
+    "Family": "Boeing 747"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "747-8I",
+    "Max Range (km)": 14320,
+    "Max Pax": 605,
+    "Cabin Width (m)": 6.1,
+    "Body Type": "Wide",
+    "Engines": 4,
+    "Family": "Boeing 747"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "757-200",
+    "Max Range (km)": 7250,
+    "Max Pax": 239,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 757"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "757-300",
+    "Max Range (km)": 6295,
+    "Max Pax": 295,
+    "Cabin Width (m)": 3.54,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Boeing 757"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "767-200",
+    "Max Range (km)": 7200,
+    "Max Pax": 255,
+    "Cabin Width (m)": 4.72,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Boeing 767"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "767-200ER",
+    "Max Range (km)": 12200,
+    "Max Pax": 255,
+    "Cabin Width (m)": 4.72,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Boeing 767"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "767-300",
+    "Max Range (km)": 7200,
+    "Max Pax": 351,
+    "Cabin Width (m)": 4.72,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Boeing 767"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "767-300ER",
+    "Max Range (km)": 11070,
+    "Max Pax": 351,
+    "Cabin Width (m)": 4.72,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Boeing 767"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "767-400ER",
+    "Max Range (km)": 10415,
+    "Max Pax": 375,
+    "Cabin Width (m)": 4.72,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Boeing 767"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "777-200",
+    "Max Range (km)": 9700,
+    "Max Pax": 440,
+    "Cabin Width (m)": 5.86,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Boeing 777"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "777-200ER",
+    "Max Range (km)": 13080,
+    "Max Pax": 440,
+    "Cabin Width (m)": 5.86,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Boeing 777"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "777-200LR",
+    "Max Range (km)": 15843,
+    "Max Pax": 440,
+    "Cabin Width (m)": 5.86,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Boeing 777"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "777-300",
+    "Max Range (km)": 11165,
+    "Max Pax": 550,
+    "Cabin Width (m)": 5.86,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Boeing 777"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "777-300ER",
+    "Max Range (km)": 13649,
+    "Max Pax": 550,
+    "Cabin Width (m)": 5.86,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Boeing 777"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "777-8",
+    "Max Range (km)": 16190,
+    "Max Pax": 395,
+    "Cabin Width (m)": 5.96,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Boeing 777"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "777-9",
+    "Max Range (km)": 13500,
+    "Max Pax": 426,
+    "Cabin Width (m)": 5.96,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Boeing 777"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "787-10",
+    "Max Range (km)": 11720,
+    "Max Pax": 440,
+    "Cabin Width (m)": 5.49,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Boeing 787"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "787-8",
+    "Max Range (km)": 13530,
+    "Max Pax": 381,
+    "Cabin Width (m)": 5.49,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Boeing 787"
+  },
+  {
+    "Manufacturer": "Boeing",
+    "Model": "787-9",
+    "Max Range (km)": 14010,
+    "Max Pax": 420,
+    "Cabin Width (m)": 5.49,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Boeing 787"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A220-100",
+    "Max Range (km)": 6700,
+    "Max Pax": 135,
+    "Cabin Width (m)": 3.28,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Airbus A220"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A220-300",
+    "Max Range (km)": 6300,
+    "Max Pax": 160,
+    "Cabin Width (m)": 3.28,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Airbus A220"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A300-600R",
+    "Max Range (km)": 7500,
+    "Max Pax": 345,
+    "Cabin Width (m)": 5.28,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Airbus A300"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A300B4-200",
+    "Max Range (km)": 5375,
+    "Max Pax": 345,
+    "Cabin Width (m)": 5.28,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Airbus A300"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A310-200",
+    "Max Range (km)": 6500,
+    "Max Pax": 237,
+    "Cabin Width (m)": 5.28,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Airbus A310"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A310-300",
+    "Max Range (km)": 9540,
+    "Max Pax": 265,
+    "Cabin Width (m)": 5.28,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Airbus A310"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A318-100",
+    "Max Range (km)": 5700,
+    "Max Pax": 132,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Airbus A320"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A319-100",
+    "Max Range (km)": 6700,
+    "Max Pax": 160,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Airbus A320"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A319neo",
+    "Max Range (km)": 7400,
+    "Max Pax": 160,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Airbus A320"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A320-100",
+    "Max Range (km)": 3334,
+    "Max Pax": 180,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Airbus A320"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A320-200",
+    "Max Range (km)": 4800,
+    "Max Pax": 186,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Airbus A320"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A320neo",
+    "Max Range (km)": 6500,
+    "Max Pax": 194,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Airbus A320"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A321",
+    "Max Range (km)": 5930,
+    "Max Pax": 244,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Airbus A320"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A321LR",
+    "Max Range (km)": 7410,
+    "Max Pax": 244,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Airbus A320"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A321neo",
+    "Max Range (km)": 6480,
+    "Max Pax": 244,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Airbus A320"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A321XLR",
+    "Max Range (km)": 8700,
+    "Max Pax": 244,
+    "Cabin Width (m)": 3.7,
+    "Body Type": "Narrow",
+    "Engines": 2,
+    "Family": "Airbus A320"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A330-200",
+    "Max Range (km)": 13450,
+    "Max Pax": 406,
+    "Cabin Width (m)": 5.26,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Airbus A330"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A330-300",
+    "Max Range (km)": 7400,
+    "Max Pax": 440,
+    "Cabin Width (m)": 5.26,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Airbus A330"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A330-800",
+    "Max Range (km)": 15000,
+    "Max Pax": 406,
+    "Cabin Width (m)": 5.26,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Airbus A330"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A330-900",
+    "Max Range (km)": 13400,
+    "Max Pax": 440,
+    "Cabin Width (m)": 5.26,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Airbus A330"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A340-200",
+    "Max Range (km)": 13500,
+    "Max Pax": 375,
+    "Cabin Width (m)": 5.287,
+    "Body Type": "Wide",
+    "Engines": 4,
+    "Family": "Airbus A340"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A340-300",
+    "Max Range (km)": 12408,
+    "Max Pax": 440,
+    "Cabin Width (m)": 5.287,
+    "Body Type": "Wide",
+    "Engines": 4,
+    "Family": "Airbus A340"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A340-500",
+    "Max Range (km)": 16670,
+    "Max Pax": 375,
+    "Cabin Width (m)": 5.287,
+    "Body Type": "Wide",
+    "Engines": 4,
+    "Family": "Airbus A340"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A340-600",
+    "Max Range (km)": 14450,
+    "Max Pax": 475,
+    "Cabin Width (m)": 5.287,
+    "Body Type": "Wide",
+    "Engines": 4,
+    "Family": "Airbus A340"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A350-1000",
+    "Max Range (km)": 17000,
+    "Max Pax": 480,
+    "Cabin Width (m)": 5.61,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Airbus A350"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A350-1000ULR?",
+    "Max Range (km)": 19000,
+    "Max Pax": 480,
+    "Cabin Width (m)": 5.61,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Airbus A350"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A350-900",
+    "Max Range (km)": 15742,
+    "Max Pax": 440,
+    "Cabin Width (m)": 5.61,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Airbus A350"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A350-900ULR",
+    "Max Range (km)": 17964,
+    "Max Pax": 440,
+    "Cabin Width (m)": 5.61,
+    "Body Type": "Wide",
+    "Engines": 2,
+    "Family": "Airbus A350"
+  },
+  {
+    "Manufacturer": "Airbus",
+    "Model": "A380-800",
+    "Max Range (km)": 14800,
+    "Max Pax": 853,
+    "Cabin Width (m)": 7.2,
+    "Body Type": "Wide",
+    "Engines": 4,
+    "Family": "Airbus A380"
+  }
+]
